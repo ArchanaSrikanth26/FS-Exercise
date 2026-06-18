@@ -4,4 +4,4 @@
 
 # Exercise-2 -- It has Employee management system  with backend connectivity 
 
-# Exercise-3 -- It has role based login  and ecormerce with backend connectivity 
+# Exercise-3 -- It has role based login  and e commerce with backend connectivity 
